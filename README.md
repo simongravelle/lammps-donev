@@ -8,8 +8,8 @@ a shared [Google doc](https://drive.google.com/drive/folders/1w_eACvOFX7Y8u7GfUI
 
 If its easier, you can also download all files as:
 - a single [.zip](https://github.com/simongravelle/lammps-donev/raw/refs/heads/main/lammps-files.zip) file
-- a single [.tar.xz](lammps-files.xz) file
-- a single [.7z](lammps-files.7z) file
+- a single [.tar.xz](https://github.com/simongravelle/lammps-donev/raw/refs/heads/main/lammps-files.tar.xz) file
+- a single [.7z](https://github.com/simongravelle/lammps-donev/raw/refs/heads/main/lammps-files.7z) file
 
 ## Download LAMMPS-GUI
 
