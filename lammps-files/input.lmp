@@ -1,0 +1,35 @@
+# LAMMPS input file
+
+# Set the generic parameters
+boundary p p p                   # Periodic boundary conditions along x, y, and z
+units real                       # LAMMPS units system (see docs.lammps.org/units.html) 
+atom_style full                  # LAMMPS atom style (see docs.lammps.org/atom_style.html) 
+
+# Define intra-molecular and inter-molecular potentials
+bond_style harmonic              # Use harmonic potential for bonds
+angle_style harmonic             # Use harmonic potential for angles
+pair_style lj/cut/coul/cut 10    # Lennard-Jones interactions + Coulomb with cut-off at 10 Angstroms
+
+# Create the simulation box
+lattice fcc 3.0                  # Lattice constant of 3 Angstroms
+region box prism -8 8 -3 3 -6 6 0 0 0 # Define a region for creating the system
+# Define a simulation box with 3 atom types and allocate memory for bonds, angles, etc
+create_box 3 box bond/types 1 angle/types 1 extra/bond/per/atom 2 &
+  extra/angle/per/atom 2 extra/special/per/atom 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# dump mydmp all image 200 myimage-*.ppm type type shiny 0.1 box no 0.01 view 90 -90 zoom 1.5
+# dump_modify mydmp backcolor white acolor 1 red acolor 2 white acolor 3 &
+#   gray adiam 1 2 adiam 2 0.8 adiam 3 2
