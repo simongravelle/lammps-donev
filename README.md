@@ -6,6 +6,11 @@ The files necessary to start the tutorials are available in the
 [lammps-files/](lammps-files/) folder. The same files are provided in
 a shared [Google doc](https://drive.google.com/drive/folders/1w_eACvOFX7Y8u7GfUIAjbnW0elpqK6we?usp=sharing).
 
+If its easier, you can also download all files as:
+- a single [.zip](lammps-donev/lammps-files.zip) file
+- a single [.tar.xz](lammps-donev/lammps-files.xz) file
+- a single [.7z](lammps-donev/lammps-files.7z) file
+
 ## Download LAMMPS-GUI
 
 LAMMPS-GUI can be downloaded from [www.lammps.org/workshops/Aug25/tutorial/](https://www.lammps.org/workshops/Aug25/tutorial/).
