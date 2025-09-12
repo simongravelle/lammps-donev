@@ -7,9 +7,9 @@ The files necessary to start the tutorials are available in the
 a shared [Google doc](https://drive.google.com/drive/folders/1w_eACvOFX7Y8u7GfUIAjbnW0elpqK6we?usp=sharing).
 
 If its easier, you can also download all files as:
-- a single [.zip](lammps-donev/lammps-files.zip) file
-- a single [.tar.xz](lammps-donev/lammps-files.xz) file
-- a single [.7z](lammps-donev/lammps-files.7z) file
+- a single [.zip](lammps-files.zip) file
+- a single [.tar.xz](lammps-files.xz) file
+- a single [.7z](lammps-files.7z) file
 
 ## Download LAMMPS-GUI
 
