@@ -7,7 +7,7 @@ The files necessary to start the tutorials are available in the
 a shared [Google doc](https://drive.google.com/drive/folders/1w_eACvOFX7Y8u7GfUIAjbnW0elpqK6we?usp=sharing).
 
 If its easier, you can also download all files as:
-- a single [.zip](lammps-files.zip) file
+- a single [.zip](https://github.com/simongravelle/lammps-donev/raw/refs/heads/main/lammps-files.zip) file
 - a single [.tar.xz](lammps-files.xz) file
 - a single [.7z](lammps-files.7z) file
 
