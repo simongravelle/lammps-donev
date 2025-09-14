@@ -28,5 +28,6 @@ Alternatively, LAMMPS-GUI can also be downloaded from these links:
 
 ## To go further
 
-- [green-kubo-example](Green-Kubo) example
-- [no-slip-particle](no-slip-particle) simulation
+- [Green-Kubo](green-kubo-example) example
+- [No-slip particle](no-slip-particle) simulation
+- 
