@@ -2,11 +2,17 @@
 
 ## Download files
 
-The files necessary to start the tutorials are available in the
-[lammps-files/](lammps-files/) folder. The same files are provided in
-a shared [Google doc](https://drive.google.com/drive/folders/1w_eACvOFX7Y8u7GfUIAjbnW0elpqK6we?usp=sharing).
+The three files necessary to start the tutorials must be downloaded with the same folder:
 
-If its easier, you can also download all files as:
+- [input.lmp](https://raw.githubusercontent.com/simongravelle/lammps-donev/refs/heads/main/lammps-files/input.lmp) (the main input)
+- [parameters.inc](https://raw.githubusercontent.com/simongravelle/lammps-donev/refs/heads/main/lammps-files/parameters.inc) (the parameter file)
+- [water.mol](https://raw.githubusercontent.com/simongravelle/lammps-donev/refs/heads/main/lammps-files/water.mol) (the water molecule file)
+
+They are the same files as those provided in
+the shared [Google doc](https://drive.google.com/drive/folders/1w_eACvOFX7Y8u7GfUIAjbnW0elpqK6we?usp=sharing).
+
+Alternatively, these three files can be downloaded as a single compressed file:
+
 - a single [.zip](https://github.com/simongravelle/lammps-donev/raw/refs/heads/main/lammps-files.zip) file
 - a single [.tar.xz](https://github.com/simongravelle/lammps-donev/raw/refs/heads/main/lammps-files.tar.xz) file
 - a single [.7z](https://github.com/simongravelle/lammps-donev/raw/refs/heads/main/lammps-files.7z) file
