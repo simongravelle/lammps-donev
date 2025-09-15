@@ -45,12 +45,9 @@ create_box 3 box bond/types 1 angle/types 1 extra/bond/per/atom 2 &
 
 
 
-
-
-
-# timestep 1.0
-# fix mynpt all npt temp 300 300 100 aniso 1 1 1000 couple xz
-# fix myrct gp recenter INIT NULL INIT
+#  timestep 1.0
+#  fix mynpt all npt temp 300 300 100 aniso 1 1 1000 couple xz
+#  fix myrct gp recenter INIT NULL INIT
 
 # dump mydmp all image 200 myimage-*.ppm type type shiny 0.1 box no 0.01 view 90 -90 zoom 1.5
 # dump_modify mydmp backcolor white acolor 1 red acolor 2 white acolor 3 &
